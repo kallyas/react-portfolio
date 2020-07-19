@@ -3,9 +3,9 @@ import React from "react";
 const PageLoader = () => {
   return (
     //    <!-- Page Loader : just comment these lines to remove it -->
-    <div class="page-loader" id="page-loader">
+    <div className="page-loader" id="page-loader">
       <div>
-        <div class="icon ion-spin"></div>
+        <div className="icon ion-spin"></div>
         <p>loading</p>
       </div>
     </div>

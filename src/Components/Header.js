@@ -5,7 +5,7 @@ import MenuWrapper from "./Header/MenuWrapper";
 
 function Header() {
   return (
-    <header class="page-header navbar page-header-alpha scrolled-white menu-right topmenu-right">
+    <header className="page-header navbar page-header-alpha scrolled-white menu-right topmenu-right">
       <MenuIcon />
       <LogoBrand />
       <MenuWrapper />
